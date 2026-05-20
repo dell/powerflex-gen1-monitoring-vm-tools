@@ -1,7 +1,7 @@
 # Gen1 PowerFlex Monitoring VM Tools
 
 This project contains setup and configuration tools for deploying a PowerFlex Gen1 monitoring virtual machine. 
-In the pre-packed VM, these tools live in the /root/tools directory.
+In the pre-packed VM, which is provided as a release artifact for the base projct at https://github.com/dell/powerflex-gen1-monitoring, these tools live in the /root/tools directory.
 
 ## Scripts Overview
 
